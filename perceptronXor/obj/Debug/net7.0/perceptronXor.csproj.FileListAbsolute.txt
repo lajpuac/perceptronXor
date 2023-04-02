@@ -1,0 +1,15 @@
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\bin\Debug\net7.0\perceptronXor.exe
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\bin\Debug\net7.0\perceptronXor.deps.json
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\bin\Debug\net7.0\perceptronXor.runtimeconfig.json
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\bin\Debug\net7.0\perceptronXor.dll
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\bin\Debug\net7.0\perceptronXor.pdb
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.AssemblyInfoInputs.cache
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.AssemblyInfo.cs
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.dll
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\refint\perceptronXor.dll
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.pdb
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\perceptronXor.genruntimeconfig.cache
+C:\Users\admin\Documents\Inteligencia Artificial\perceptronXor\obj\Debug\net7.0\ref\perceptronXor.dll
